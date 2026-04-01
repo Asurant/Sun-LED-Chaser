@@ -8,5 +8,5 @@ It works by connecting a 9 volt battery to the header leading to the NE555 and C
 Schematic:  
 <img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/339bfb68-687a-4722-9027-4c30231ff142" />
 
-PCB:
+PCB:  
 <img width="544" height="518" alt="Screenshot 2026-03-31 212757" src="https://github.com/user-attachments/assets/65c763c8-ec70-4d12-8cb1-129e814a3c7a" />
