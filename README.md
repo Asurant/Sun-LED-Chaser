@@ -10,3 +10,5 @@ Schematic:
 
 PCB:  
 <img width="544" height="518" alt="Screenshot 2026-03-31 212757" src="https://github.com/user-attachments/assets/65c763c8-ec70-4d12-8cb1-129e814a3c7a" />
+
+Note: This was made using the old tutorial so my apologies if there are ny issues with it.
