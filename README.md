@@ -12,6 +12,4 @@ PCB:
 <img width="544" height="518" alt="Screenshot 2026-03-31 212757" src="https://github.com/user-attachments/assets/65c763c8-ec70-4d12-8cb1-129e814a3c7a" />
 
 Picture of PCB:  
-<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/d5f63af8-75ef-4f73-b43d-9a79eea7f1f9" />
-
-Note: This was made using the old tutorial so my apologies if there are ny issues with it.
+<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/f507204d-5e55-47b6-844e-44b48ef10298" />
